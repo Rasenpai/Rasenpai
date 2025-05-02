@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ### 💫 About Me:
-#### Hello World! My name's Rasena
+#### Hi, I'm Rasena! I want to become a full-stack developer. I usually work with HTML, CSS, JS, Python, and some cool frameworks like React, Tailwind, Node, and Flask.
+
+Besides that, I'm also really enthusiastic about AI and love exploring new technologies. My focus is on web development, and I’m always learning to improve my skills in the world of coding and technology.
 
 
 ### 🌐 Socials:
